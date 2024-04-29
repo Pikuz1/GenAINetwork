@@ -18,7 +18,7 @@ This Python script demonstrates the implementation of a genetic algorithm to fin
 
 1. Clone the repository or download the script.
 2. Install dependencies as mentioned above.
-3. Run the script: `python genetic_algorithm_shortest_path.py`
+3. Run the script: `python ad-hoc.py`
 
 ## Code Explanation
 
